@@ -1,6 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --bgcolor1:palegoldenrod;
+}
+
 body{
     font-family:sans-serif, Verdana, Geneva, Tahoma;
     margin: 0;
-    background-color:palegoldenrod;
+    /* background-color:palegoldenrod; */
+    background-color: var(--bgcolor1);
 }

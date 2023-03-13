@@ -3,7 +3,8 @@
     height: 30px;
     display: flex;
     justify-content: center;
-    background-color:firebrick
+    /* background-color:firebrick */
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 ul{
